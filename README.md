@@ -2,7 +2,7 @@
 
 Hi everyone
 
-This project is created to show you the Best Recipes to create the Best-Brownies of your life...!
+This project is created to show the Best Recipes to create the Best-Brownies of your life...!
 
 In This Project I will work on my HTML, CSS, and a little bit of my writing skills.., My Essays.
 

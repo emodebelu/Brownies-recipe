@@ -18,3 +18,5 @@ I will also practice in HTML
 <li>etc</li>
 
 </ul>
+
+So Basically I created the HTML5! file (index.html) with links filled up in it.., essays and photos, i also used the <p> and <H> element and tags.., linked them up to other pages in the recipe folder, created 7 lists of recipes, now i'm about to fill it up with more information.
